@@ -1,0 +1,52 @@
+{
+  "videos": [
+ {
+      "id": 1,
+      "videoid": "HYGgAHo186s",
+      "link": "https://www.youtube.com/watch?v=HYGgAHo186s",
+      "title": "Bollywood",
+      "description": "Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.",
+      "miniature": "https://www.w3schools.com/w3images/mountains.jpg"
+    },
+    {
+      "id": 2,
+      "videoid": "IcseamG7ReY",
+      "link": "https://www.youtube.com/watch?v=IcseamG7ReY",
+      "title": "Naruto",
+      "description": "Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.",
+      "miniature": "https://www.w3schools.com/w3images/lights.jpg"
+    },
+    {
+      "id": 3,
+      "videoid": "jlNvOWDfMYo",
+      "link": "https://www.youtube.com/watch?v=jlNvOWDfMYo",
+      "title": "Cats ",
+      "description": "Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.",
+      "miniature": "https://www.w3schools.com/w3images/nature.jpg"
+    },
+    {
+      "id": 4,
+      "videoid": "OhHbQdKF2Zk",
+      "link": "https://www.youtube.com/watch?v=OhHbQdKF2Zk",
+      "title": "Malcolm",
+      "description": "Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.",
+      "miniature": "https://www.w3schools.com/w3images/mountains.jpg"
+    },
+    {
+      "videoid": "KY0TZQTwwbk",
+      "link": "https://www.youtube.com/watch?v=KY0TZQTwwbk",
+      "title": "Massive Attack",
+      "description": "Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.",
+      "miniature": "https://www.w3schools.com/w3images/nature.jpg",
+      "id": 5
+    },
+    {
+      "videoid": "hN5X4kGhAtU",
+      "link": "https://www.youtube.com/watch?v=hN5X4kGhAtU",
+      "title": "Empire of the sun",
+      "description": "Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.",
+      "miniature": "https://www.w3schools.com/w3images/lights.jpg",
+      "id": 6
+    }
+  ]
+}
