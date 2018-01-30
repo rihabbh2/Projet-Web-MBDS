@@ -1,6 +1,6 @@
 {
   "videos": [
- {
+    {
       "id": 1,
       "videoid": "HYGgAHo186s",
       "link": "https://www.youtube.com/watch?v=HYGgAHo186s",
@@ -47,6 +47,14 @@
       "description": "Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.",
       "miniature": "https://www.w3schools.com/w3images/lights.jpg",
       "id": 6
+    },
+    {
+      "videoid": "xouiqW1AvQw",
+      "link": "https://www.youtube.com/watch?v=xouiqW1AvQw",
+      "title": "Breaking Bad",
+      "description": "Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.",
+      "miniature": "https://www.w3schools.com/w3images/nature.jpg",
+      "id": 7
     }
   ]
 }
