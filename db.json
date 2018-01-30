@@ -1,7 +1,6 @@
-{
-  "videos": [
-    {
-      "id": 1,
+[{
+
+      "note": 0,
       "videoid": "HYGgAHo186s",
       "link": "https://www.youtube.com/watch?v=HYGgAHo186s",
       "title": "Bollywood",
@@ -9,15 +8,15 @@
       "miniature": "https://www.w3schools.com/w3images/mountains.jpg"
     },
     {
-      "id": 2,
-      "videoid": "IcseamG7ReY",
-      "link": "https://www.youtube.com/watch?v=IcseamG7ReY",
-      "title": "Naruto",
+      "note": 0,
+      "videoid": "Rui0hzN-EFE",
+      "link": "https://www.youtube.com/watch?v=Rui0hzN-EFE",
+      "title": "Air",
       "description": "Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.",
       "miniature": "https://www.w3schools.com/w3images/lights.jpg"
     },
     {
-      "id": 3,
+      "note": 0,
       "videoid": "jlNvOWDfMYo",
       "link": "https://www.youtube.com/watch?v=jlNvOWDfMYo",
       "title": "Cats ",
@@ -25,10 +24,10 @@
       "miniature": "https://www.w3schools.com/w3images/nature.jpg"
     },
     {
-      "id": 4,
-      "videoid": "OhHbQdKF2Zk",
-      "link": "https://www.youtube.com/watch?v=OhHbQdKF2Zk",
-      "title": "Malcolm",
+      "note": 0,
+      "videoid": "wCDIYvFmgW8",
+      "link": "https://www.youtube.com/watch?v=wCDIYvFmgW8",
+      "title": "FatBoy Slim",
       "description": "Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.",
       "miniature": "https://www.w3schools.com/w3images/mountains.jpg"
     },
@@ -38,7 +37,7 @@
       "title": "Massive Attack",
       "description": "Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.",
       "miniature": "https://www.w3schools.com/w3images/nature.jpg",
-      "id": 5
+      "note": 0
     },
     {
       "videoid": "hN5X4kGhAtU",
@@ -46,7 +45,23 @@
       "title": "Empire of the sun",
       "description": "Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.",
       "miniature": "https://www.w3schools.com/w3images/lights.jpg",
-      "id": 6
+     "note": 0
+    },
+    {
+      "videoid": "Zx1_6F-nCaw",
+      "link": "https://www.youtube.com/watch?v=Zx1_6F-nCaw",
+      "title": "Elvis Presley",
+      "description": "Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.",
+      "miniature": "https://www.w3schools.com/w3images/nature.jpg",
+      "note": 0
+    },
+  {
+      "videoid": "e0j3Ve05TqQ",
+      "link": "https://www.youtube.com/watch?v=e0j3Ve05TqQ",
+      "title": "Charles Aznavour",
+      "description": "Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.",
+      "miniature": "https://www.w3schools.com/w3images/lights.jpg",
+     "note": 0
     },
     {
       "videoid": "xouiqW1AvQw",
@@ -54,7 +69,7 @@
       "title": "Breaking Bad",
       "description": "Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.",
       "miniature": "https://www.w3schools.com/w3images/nature.jpg",
-      "id": 7
+      "note": 0
     }
-  ]
-}
+
+]
